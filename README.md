@@ -1,6 +1,6 @@
 # Weatherzen Monorepo
 
-Created a weather-tracking app while practicing the outside in fullstack workflow. By firstly adding the UI feature, then the corresponding API, and lastly connecting to the server this would allow the app to deploy quickly and responsively. 
+Created a weather-tracking app while practicing the outside in full stack workflow. By firstly adding the UI feature, then the corresponding API, and lastly connecting to the server this would allow the app to deploy quickly and responsively. 
 Users can track weather conditions by submitting longitude, latitude and provided sky conditions. 
 <br><br>
 [Live Demo](https://weatherzen-frontend.herokuapp.com)
